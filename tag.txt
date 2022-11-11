@@ -1,0 +1,11 @@
+Proyecto: Tag de las 20 canciones.
+
+¿Cuál es tu canción favorita?
+Canción que más odias.
+¿Qué canción te pone triste?
+Canción que te recuerde a alguien
+Canción que te pone feliz
+Canción que te recuerde a un momento en específico.
+
+
+
