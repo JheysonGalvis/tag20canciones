@@ -47,3 +47,12 @@ button{
 .td{
     font-weight: bold;
 }
+caption{
+    font-family: 'Fasthand', cursive;
+    font-family: 'Prompt', sans-serif;
+}
+body{
+    background-image: url(https://media.tenor.com/5FmfYNNPcwQAAAAM/dance-music.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+}
