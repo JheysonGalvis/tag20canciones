@@ -11,6 +11,7 @@
     font-family: 'Comfortaa', cursive;
     font-family: 'Fasthand', cursive;
     font-family: 'Prompt', sans-serif;
+    color: lightcoral;
 }
 .titulo3{
     font-family: 'Comfortaa', cursive;
@@ -33,16 +34,22 @@
     color: white;
 }
 .table td:hover{
-    background-color: coral;
+    background-color: lightpink;
     color: white;
 }
 table th:hover{
-    background-color: yellow;
+    background-color: transparent;
     color: white;
 }
 button{
-    background-color: red;
+    background-color: transparent;
     color: azure;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Fasthand', cursive;
+    font-family: 'Prompt', sans-serif;
+}
+button:hover{
+    background-color: black;
 }
 .td{
     font-weight: bold;
@@ -55,4 +62,11 @@ body{
     background-image: url(https://media.tenor.com/5FmfYNNPcwQAAAAM/dance-music.gif);
     background-repeat: no-repeat;
     background-position: right;
+    background: #BE93C5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #7BC6CC, #BE93C5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #7BC6CC, #BE93C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
